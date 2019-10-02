@@ -1,6 +1,6 @@
 ## Approach
 
-Writing a simple JavaScript function to create and draw a static ball.
+Writing a JavaScript function to create and draw a static ball.
 
 **Static ball on Canvas**
 
@@ -15,5 +15,7 @@ Writing a simple JavaScript function to create and draw a static ball.
 
 ![](https://media.giphy.com/media/dyoeRdg6qtpp89FOcb/giphy.gif)
 
-**Code Snippet**
+**Balls changing colour on collision**
+
+![](https://media.giphy.com/media/hU9YKzMX6QH0hoTWap/giphy.gif)
 
