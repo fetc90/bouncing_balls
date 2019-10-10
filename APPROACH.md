@@ -1,6 +1,6 @@
 ## Approach
 
-Writing a JavaScript function to create and draw a static ball.
+Writing a JavaScript function to create and draw a static ball. This project was built from this [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice). 
 
 **Static ball on Canvas**
 
